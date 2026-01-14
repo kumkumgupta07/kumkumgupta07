@@ -1,5 +1,34 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>- Improving my Python skills through projects  <br>- Building web apps using Streamlit  <br><br>👯 I’m looking to collaborate on  <br>- Open source beginner projects  <br>- Python & data-related applications  <br><br>🤝 I’m looking for help with  <br>- Writing clean and optimized code  <br>- Understanding real-world project structure  <br><br>🌱 I’m currently learning  <br>- Python, SQL  <br>- Django & backend development  <br><br><br>💬 Ask me about  <br>- Python basics ,OOPs concepts<br>- Django<br>- SQL queries  <br><br><br>⚡ Fun fact  <br>- I learn faster when I break things and fix them again 😄<br>
+<h1 align="center">Hi 👋, I'm Kumkum Gupta </h1>
+<h3 align="center">
+Aspiring Software Engineer | Python & Backend Developer
+</h3>
+<p align="center">
+BCA Graduate passionate about building real-world applications and learning by doing 🚀
+</p>
+
+
+
+
+### 👨‍💻 About Me
+
+🔭 I’m currently working on  
+Python projects | Streamlit web apps  
+
+👯 I’m looking to collaborate on  
+Beginner-friendly open source | Python & data projects  
+
+🤝 I’m looking for help with  
+Clean code practices | Real-world project structure  
+
+🌱 I’m currently learning  
+Python | SQL | Django | Backend development  
+
+💬 Ask me about  
+Python | OOPs | Django | SQL  
+
+⚡ Fun fact  
+I learn faster by breaking things and fixing them again 😄
+
 
 
 ## 🌐 Socials:
