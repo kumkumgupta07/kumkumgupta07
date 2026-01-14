@@ -3,7 +3,7 @@
 Aspiring Software Engineer | Python & Backend Developer
 </h3>
 <p align="center">
-BCA Graduate passionate about building real-world applications and learning by doing 🚀
+Cmputer Science Graduate passionate about building real-world applications and learning by doing 🚀
 </p>
 
 
