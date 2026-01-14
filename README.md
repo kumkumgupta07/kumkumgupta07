@@ -11,24 +11,17 @@ BCA Graduate passionate about building real-world applications and learning by d
 
 ### 👨‍💻 About Me
 
-🔭 I’m currently working on  
-Python projects | Streamlit web apps  
+🔭 I’m currently working on Python projects | Streamlit web apps  
 
-👯 I’m looking to collaborate on  
-Beginner-friendly open source | Python & data projects  
+👯 I’m looking to collaborate on Beginner-friendly open source | Python & data projects  
 
-🤝 I’m looking for help with  
-Clean code practices | Real-world project structure  
+🤝 I’m looking for help with Clean code practices | Real-world project structure  
 
-🌱 I’m currently learning  
-Python | SQL | Django | Backend development  
+🌱 I’m currently learning Python | SQL | Django | Backend development  
 
-💬 Ask me about  
-Python | OOPs | Django | SQL  
+💬 Ask me about Python | OOPs | Django | SQL  
 
-⚡ Fun fact  
-I learn faster by breaking things and fixing them again 😄
-
+⚡ Fun fact  I learn faster by breaking things and fixing them again 😄
 
 
 ## 🌐 Socials:
